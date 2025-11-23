@@ -20,14 +20,14 @@ A simple HTTP/1.1 server implementation that supports the ASGI interface.
 
 ## Installation
 ```bash
-git clone 
-cd <repository-name>
+git clone https://github.com/UlanKurmanbekov/simple-asgi-server.git
+cd simple-asgi-server
 pip install fastapi
 ```
 
 ## Usage
 ```bash
-python server.py
+python main.py
 ```
 
 Server runs on `http://localhost:8000`
